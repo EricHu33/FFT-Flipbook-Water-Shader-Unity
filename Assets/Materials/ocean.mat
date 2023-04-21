@@ -130,7 +130,7 @@ Material:
     - _FoamDistance: 120.2
     - _FoamDistance_1: 2
     - _FoamSpeed: 150
-    - _FoamThreshold: 18.3
+    - _FoamThreshold: 14.46
     - _FrameRate: 30
     - _FrameX: 8
     - _FrameY: 8
@@ -163,7 +163,7 @@ Material:
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
-    - _Tile: 0.05
+    - _Tile: 1
     - _WorkflowMode: 1
     - _ZWrite: 1
     m_Colors:

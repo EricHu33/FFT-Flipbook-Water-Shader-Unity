@@ -3338,11 +3338,11 @@
     "overrideHLSLDeclaration": false,
     "hlslDeclarationOverride": 0,
     "m_Hidden": false,
-    "m_Value": 0.009999999776482582,
-    "m_FloatType": 1,
+    "m_Value": 1.0099999904632569,
+    "m_FloatType": 2,
     "m_RangeValues": {
         "x": 0.0,
-        "y": 0.5
+        "y": 4.0
     }
 }
 
