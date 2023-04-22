@@ -120,7 +120,7 @@ Material:
     - _Cull: 2
     - _Cutoff: 0.5
     - _Depth: 1
-    - _DepthFadeDistance: 4
+    - _DepthFadeDistance: 1
     - _DetailAlbedoMapScale: 1
     - _DetailNormalMapScale: 1
     - _Displacement: 1.64
@@ -130,7 +130,7 @@ Material:
     - _FoamDistance: 120.2
     - _FoamDistance_1: 2
     - _FoamSpeed: 150
-    - _FoamThreshold: 14.46
+    - _FoamThreshold: 33.3
     - _FrameRate: 30
     - _FrameX: 8
     - _FrameY: 8
@@ -147,6 +147,7 @@ Material:
     - _NormalStrength: 0.363
     - _OcclusionStrength: 1
     - _Parallax: 0.005
+    - _Phase_G: 1.33
     - _QueueControl: 0
     - _QueueOffset: 0
     - _ReceiveShadows: 1
@@ -159,7 +160,7 @@ Material:
     - _SpecSparkleMaxDistance: 17
     - _SpecSparkleMinDistance: 30
     - _SpecSparkleStartFadeDistance: 36.94
-    - _SpecSparkleThreshold: 0.522
+    - _SpecSparkleThreshold: 0.578
     - _SpecularHighlights: 1
     - _SrcBlend: 1
     - _Surface: 0
@@ -171,13 +172,13 @@ Material:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _CrestColor: {r: 1, g: 1, b: 1, a: 0}
     - _CrestMinMax: {r: 1.45, g: 3, b: 0, a: 0}
-    - _DeepColor: {r: 0, g: 0.29851025, b: 0.65882355, a: 0}
+    - _DeepColor: {r: 0, g: 0.12861198, b: 0.2735849, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _FoamColor: {r: 1, g: 1, b: 1, a: 1}
-    - _ShallowColor: {r: 0.26072446, g: 0.8773585, b: 0.8638556, a: 0}
+    - _ShallowColor: {r: 0, g: 1, b: 0.7426262, a: 0}
     - _Sparkle: {r: 0.7510631, g: 2.6082375, b: 1.9864492, a: 1}
     - _SpecColor: {r: 0.19999996, g: 0.19999996, b: 0.19999996, a: 1}
-    - _SpecSparkleColor: {r: 1024, g: 713.9817, b: 0, a: 0}
+    - _SpecSparkleColor: {r: 1, g: 1, b: 1, a: 1}
     - _Vector2: {r: -0.09, g: 5.21, b: 0, a: 0}
   m_BuildTextureStacks: []
 --- !u!114 &8152962585355136846
